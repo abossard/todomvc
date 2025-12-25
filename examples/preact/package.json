@@ -36,7 +36,7 @@
         "linkstate": "^2.0.1",
         "preact": "^10.13.1",
         "preact-router": "^4.1.0",
-        "todomvc-app-css": "^2.4.2",
+        "todomvc-app-css": "^2.4.3",
         "todomvc-common": "^1.0.5"
     }
 }
