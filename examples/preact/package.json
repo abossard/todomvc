@@ -32,7 +32,7 @@
         "rollup-plugin-resolve": "^0.0.1-predev.1"
     },
     "dependencies": {
-        "classnames": "^2.3.2",
+        "classnames": "^2.5.1",
         "linkstate": "^2.0.1",
         "preact": "^10.13.1",
         "preact-router": "^4.1.0",
